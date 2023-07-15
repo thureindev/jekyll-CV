@@ -130,11 +130,11 @@ title: CV
 </table>
 
 # Experiences In Programming
-## Programming Tutor (Jan 2020 - Jul 2021)
+## Programming Tutor (Jan 2020 - Aug 2021)
 ### Yangon Institute of University Studies 
 > I taught basic programming concepts and computer fundamentals to college entry-level  students. I love teaching because it helps me learn better. Teaching other people motivates me to read more about the topics. Hence, I learned a lot myself from my teaching career. I left this job I loved because I have decided to work as a developer. So that I can teach more advanced topics in the future.
 
-## Internship IOS frontend (Sep 2017 - Dec 2017)
+## Internship IOS frontend (Jun 2017 - Dec 2017)
 ### Revotech
 > After achieving my computing diploma, I worked as an intern programmer at REVOTECH
 digital agency for about 3 months. I learned day-to-day operations at digital agencies.
