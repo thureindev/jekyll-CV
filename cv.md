@@ -137,7 +137,7 @@ title: CV
 ## Internship IOS frontend (Jun 2017 - Dec 2017)
 ### Revotech
 > After achieving my computing diploma, I worked as an intern programmer at REVOTECH
-digital agency for about 3 months. I learned day-to-day operations at digital agencies.
+digital agency for 6 months. I learned day-to-day operations at digital agencies.
 After I finished internship I continued self-study on tech and business before I joined BBA
 programme.
 
